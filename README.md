@@ -1,4 +1,4 @@
-# 👋🏻👋🏻👋🏻
+<h1 align="center">👋🏻👋🏻👋🏻</h1>
 
 I'm BLZ 👨🏻‍🏫 and I'm currently learning how to be an adult 🌱 and overall a great person 💗
 
