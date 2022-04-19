@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- I'm
 - 🔭 I’m currently working on [lı★ıl PⒶLⓄ](https://github.com/mantekillah/palo)
 - 🌱 I’m currently learning how to be an adult and overall a great person.
 
