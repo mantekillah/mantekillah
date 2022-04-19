@@ -1,4 +1,4 @@
-### ULA :3 👋
+# ULA :3 👋
 
 - I'm BLZ.
 - 🌱 I'm currently learning how to be an adult and overall a great person.
