@@ -1,6 +1,6 @@
 # 👋🏻
 
-- 👨🏻‍🏫 I'm BLZ.
+- I'm BLZ 👨🏻‍🏫
 - 🌱💗 I'm currently learning how to be an adult and overall a great person.
 - ✊🏻🕊️ I'm an anarcho-pacifist guy from the Catalan Nation Lands.
 - 👮🏻‍♂️💩 I know that politicians and policemen are the same crap with a different smell.
