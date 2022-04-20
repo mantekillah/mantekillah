@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I'm also known as `BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` & `MANTEGGA`. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**).
+Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I'm also known as `BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` & `MANTEGGA`. I like to define myself as an `anarcho-pacifist` guy ✊🏽🕊️ from the `Catalan Nation Lands` (**lı★ıl**).
   
 I'm currently learning how to be an adult🌱 and overall a great person💗
   
