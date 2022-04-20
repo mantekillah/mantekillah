@@ -18,4 +18,4 @@ I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catal
 
 I like gaming stuff, Hip Hop music (especially Rap), hacking, FCBarcelona, languages, OnePiece, Pokémon and the Wizarding World. I stand up for Catalonia, Education (in both ways, learning/teaching), Philosophy, Psychology, Technology, Privacy, Arts and several more things.
 
-I'm currently working on [PⒶLⓄ](https://github.com/mantekillah/palo) ([my webpage](https://mantekillah.github.io/palo)).
+I'm currently working on [lı★ıl • BLZ • Don't grow up, it's a trap!](https://github.com/mantekillah/palo) ([my webpage](https://mantekillah.github.io/palo)).
