@@ -15,7 +15,7 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻�
 - `Manteka`
 - `Mantegga`
 - `Tequila-Man`
-- `Cux` (+ derives like `El cuchi petit` / `Le Petit Cux`)
+- `Cux` (+ derives like `El cuchi petit` / `Le Petit Cux` )
 - `EL PUTU GRiNX`
 - `bl4ck4nthr4x`
 
