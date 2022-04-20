@@ -2,7 +2,9 @@
 
 <p align="center">Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I've several nicknames:</p>
 
-<p align="center">`BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` `MANTEGGA`</p>
+<div align="center">
+  `BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` `MANTEGGA`
+  </div>
 
 I'm currently learning how to be an adult🌱 and overall a great person💗
 
