@@ -4,6 +4,7 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻�
 
 - `BLZ`
 - `BiGTORT`
+- `EL BURBÓ`
 - `PALO`
 - `PALOMATRIX`
 - `PSYCHOPALO`
