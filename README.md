@@ -8,9 +8,9 @@ My real name is `Víctor Palomares`.
   
 I'm also known as `BLZ`, `PALO`, `VITTORIO`, `CUX`, `VITI`, `BiGTORT`, `BIG-T`, `BIKTWP`, `UKTREND`, `SENYIRAUXA` or `MANTEKILLAH`.
 
-I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`. **lı★ıl**
+I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`. **lı★ıl**
   
-I enjoy `gaming stuff`, `Hip Hop music` (especially `Rap`), `hacking`, `FCBarcelona`, `languages`, `One Piece`, `Pokémon` and the `Wizarding World`.
+I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `hacking`, `FCBarcelona`, `languages`, `One Piece`, `Pokémon` and the `Wizarding World`.
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things.
 
