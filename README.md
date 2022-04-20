@@ -17,7 +17,7 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻�
 - `Tequila-Man`
 - `Cux`
 - `LePetitCux`
-- `ElCuxiPetit`
+- `El cuchi petit`
 - `El putu Grinx`
 - `bl4ck4nthr4x`
 
