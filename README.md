@@ -3,7 +3,7 @@
 Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻‍🏫 but I've several nicknames:
 
 - `BLZ` (because everything has to blaze🔥)
-- `Palo` / `PALOMATRIX` / `PSYCHOPALO` / `YungPaloompa` / `DearPalo`
+- `PALO` / `PALOWATE` / `PALOMATRIX` / `PSYCHOPALO` / `YungPaloompa` / `DearPalo`
 - `BigTort` / `El Burbó` / `El putu Grinx` / `BL4CK4NTHR4X` / `Mantekillah` / `ManteKiller` / `Manteka` / `Mantegga` / `Tequila-Man`
 - `Cux` / `El cuchi petit` / `Le Petit Cux`
 
