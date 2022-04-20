@@ -1,8 +1,8 @@
 <h1 align="center">👋🏼👋🏼👋🏼</h1>
 
-<p align="center">Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I've several nicknames:</p>
-
 <div align="center">
+
+Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I've several nicknames:
   
 `BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` `MANTEGGA`
 
