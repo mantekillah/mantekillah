@@ -4,9 +4,9 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻�
 
 `BLZ`
 
-`PALO` (+ `PALOWATE` `PALOMATRIX` `PSYCHOPALO` `YUNGPALOOMPA` `DEARPALO`)
+`PALO` (+ `PALOWATE` / `PALOMATRIX` / `PSYCHOPALO` / `YUNGPALOOMPA` / `DEARPALO`)
 
-`CUX` (+ `EL CUCHI PETIT` `LE PETIT CUX`)
+`CUX` (+ `EL CUCHI PETIT` / `LE PETIT CUX`)
 
 `BIGTORT`
 
