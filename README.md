@@ -3,7 +3,7 @@
 Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several nicknames:
 
 - `BLZ` (because everything has to blaze🔥🔥)
-- `BiGTORT` (check my songs out at [YouTube](https://www.youtube.com/channel/UCzO8UCM5DaArcYoz2Or5DXA/videos))
+- `BiGTORT` (check my songs out [@YouTube](https://www.youtube.com/channel/UCzO8UCM5DaArcYoz2Or5DXA/videos))
 - `BURBÓ`
 - `PALO`
 - `PALOMATRIX`
