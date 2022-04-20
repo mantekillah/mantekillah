@@ -1,10 +1,12 @@
 <h1 align="center">👋🏼👋🏼👋🏼</h1>
 
-Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several also-known-as nicknames:
+Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several nicknames:
 
 - BLZ
-- PALO (including PALOMATRIX, PSYCHOPALO, YUNGPALOOMPA, DEARPALO
+- PALO (including `palomatrix`, PSYCHOPALO, YUNGPALOOMPA, DEARPALO)
 - MANTEKILLAH/MANTEKILLER
+- CUX (including `lepetitcux`
+- 
 - EL PUTU GRINX
 - SEVERALMORE
 
