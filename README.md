@@ -1,6 +1,6 @@
 <h1 align="center">👋🏼👋🏼👋🏼</h1>
 
-Hi! Greetings. Nice to meet you. My real name is **Víctor**👨🏻‍🏫 but despite of my relatives I'm also more known as *Palo* -and its variants like *PaloMatrix*, *PsychoPalo*, *YungPaloompa*, *DearPalo*-, *BLZ*, *Mantekillah*, *mantekiller*, *El putu Grinx*).
+Hi! Greetings. Nice to meet you. My real name is **Víctor**👨🏻‍🏫 but despite of my relatives I'm also more known as ***BLZ***, *Palo* -and its variants like *PaloMatrix*, *PsychoPalo*, *YungPaloompa*, *DearPalo*-, *BLZ*, *Mantekillah*, *mantekiller*, *El putu Grinx*).
 
 I'm currently learning how to be an adult🌱 and overall a great person💗. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**) that already knows that politicians👨‍💼 and policemen👮🏻‍♂️ are the same crap with a different smell💩💩
 
