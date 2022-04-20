@@ -1,6 +1,6 @@
 <h1 align="center">👋🏼👋🏼👋🏼</h1>
 
-Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻‍🏫 but I've several nicknames:
+Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I've several nicknames:
 
 `BLZ` `BL4CK4NTHR4X` `PALO` `PALOWATE` `PALOMATRIX` `PSYCHOPALO` `YUNGPALOOMPA` `DEARPALO` `YOUPALO` `CUX` `BIGTORT` `EL BURBÓ` `EL PUTU GRINX` `MANTEKILLAH` `MANTEKILLER` `MANTEKA` `MANTEGGA` `TEQUILA MAN`
 
