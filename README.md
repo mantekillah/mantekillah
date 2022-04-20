@@ -15,10 +15,8 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻�
 - `Manteka`
 - `Mantegga`
 - `Tequila-Man`
-- `Cux`
-- `LePetitCux`
-- `El cuchi petit`
-- `El putu Grinx`
+- `Cux` (+ derives like `El cuchi petit` / `Le Petit Cux`)
+- `EL PUTU GRiNX`
 - `bl4ck4nthr4x`
 
 I'm currently learning how to be an adult🌱 and overall a great person💗. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**) that already knows that politicians👨‍💼 and policemen👮🏻‍♂️ are the same crap with a different smell💩💩
