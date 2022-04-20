@@ -4,12 +4,8 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻�
 
 - `BLZ` (because everything has to blaze🔥)
 - `BiGTORT` (check my songs out [@YouTube](https://www.youtube.com/channel/UCzO8UCM5DaArcYoz2Or5DXA/videos))
-- `BURBÓ`
-- `PALO`
-- `PALOMATRIX`
-- `PSYCHOPALO`
-- `YungPaloompa`
-- `DearPalo`
+- `Burbó` (cause I'm the king)
+- `Palo` (+ derives like `PALOMATRIX` / `PSYCHOPALO` / `YungPaloompa` / `DearPalo`
 - `Mantekillah`
 - `ManteKiller`
 - `Manteka`
