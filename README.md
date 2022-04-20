@@ -2,7 +2,7 @@
 
 Hi! Greetings. Nice to meet you. My real name is `Víctor Palomares` 👨🏻‍🏫 but I've several nicknames:
 
-`BLZ` `BL4CK4NTHR4X` `PALO` `PALOWATE` `PALOMATRIX` `PSYCHOPALO` `YUNGPALOOMPA` `DEARPALO` `YOUPALO` `CUX` `BIGTORT` `EL BURBÓ` `EL PUTU GRINX` `MANTEKILLAH` `MANTEKILLER` `MANTEKA` `MANTEGGA` `TEQUILA MAN`
+`BLZ` `PALO` `CUX` `BiGTORT` `BIG-T` `VITI` `YOUNGOU` `MANTEKILLAH` `MANTEKILLER` `MANTEGGA`
 
 I'm currently learning how to be an adult🌱 and overall a great person💗
 
