@@ -6,7 +6,7 @@ Hi! Greetings. Nice to meet you.
   
 My real name is `Víctor Palomares`.
   
-I'm also known as `BLZ`, `PALO`, `VITTORIO`, `CUX`, `VITI`, `BiGTORT`, `BIG-T`, `UKTREND`, `SENYIRAUXA` or `MANTEKILLAH`.
+I'm also known as `BLZ`, `PALO`, `VITTORIO`, `CUX`, `VITI`, `BiGTORT`, `BIG-T`, `BIKTWP`, `UKTREND`, `SENYIRAUXA` or `MANTEKILLAH`.
 
 I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
