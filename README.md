@@ -2,7 +2,7 @@
 
 Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several nicknames:
 
-- `BLZ`
+- `BLZ` (because everything has to blaze)
 - `BiGTORT`
 - `BURBÓ`
 - `PALO`
