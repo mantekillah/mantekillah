@@ -4,11 +4,10 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻�
 
 - `BLZ` (because everything has to blaze🔥)
 - `BiGTORT` (check my songs out [@YouTube](https://www.youtube.com/channel/UCzO8UCM5DaArcYoz2Or5DXA/videos))
-- `Burbó` (cause I'm the king)
+- `El Burbó` / `EL PUTU GRiNX`
 - `Palo` / `PALOMATRIX` / `PSYCHOPALO` / `YungPaloompa` / `DearPalo`
 - `Mantekillah` / `ManteKiller` / `Manteka` / `Mantegga` / `Tequila-Man`
 - `Cux` / `El cuchi petit` / `Le Petit Cux`
-- `EL PUTU GRiNX`
 - `bl4ck4nthr4x` (old also-known-as on the internet)
 
 I'm currently learning how to be an adult🌱 and overall a great person💗. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**) that already knows that politicians👨‍💼 and policemen👮🏻‍♂️ are the same crap with a different smell💩💩
