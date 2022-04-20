@@ -12,6 +12,6 @@ I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`. **
   
 I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`. I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things.
 
-Stay tuned @ 🚧 [lı★ıl • BLZ](https://mantekillah.github.io/palo) 🚧
+Stay tuned: 🚧 [lı★ıl • BLZ](https://mantekillah.github.io/palo) 🚧
 
 </div>
