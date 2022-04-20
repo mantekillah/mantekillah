@@ -3,6 +3,7 @@
 Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several nicknames:
 
 - `BLZ`
+- `BiGTORT`
 - `PALO`
 - `PALOMATRIX`
 - `PSYCHOPALO`
