@@ -1,8 +1,12 @@
 <h1 align="center">👋🏼👋🏼👋🏼</h1>
 
-Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I'm also more known as ***BLZ***,
+Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several also-known-as nicknames:
 
-***Palo**Matrix*, *Psycho******Palo***, *YungPaloompa*, *DearPalo* *BLZ*, *Mantekillah*, *mantekiller*, *El putu Grinx*).
+- BLZ
+- PALO (including PALOMATRIX, PSYCHOPALO, YUNGPALOOMPA, DEARPALO
+- MANTEKILLAH/MANTEKILLER
+- EL PUTU GRINX
+- SEVERALMORE
 
 I'm currently learning how to be an adult🌱 and overall a great person💗. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**) that already knows that politicians👨‍💼 and policemen👮🏻‍♂️ are the same crap with a different smell💩💩
 
