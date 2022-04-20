@@ -3,7 +3,7 @@
 Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares**👨🏻‍🏫 but I've several nicknames:
 
 - BLZ
-- PALO (including `palomatrix`, PSYCHOPALO, YUNGPALOOMPA, DEARPALO)
+- PALO (including `PaloMatrix`, `PsychoPalo`, `YungPaloompa`, `DearPalo`)
 - MANTEKILLAH/MANTEKILLER
 - CUX (including `lepetitcux`
 - 
