@@ -4,7 +4,7 @@ Hi! Greetings. Nice to meet you. My real name is **Víctor Palomares** 👨🏻�
 
 - `BLZ` (because everything has to blaze🔥)
 - `Palo` / `PALOMATRIX` / `PSYCHOPALO` / `YungPaloompa` / `DearPalo`
-- `BigTort` / `El Burbó` / `El putu Grinx` / `bl4ck4nthr4x` / `Mantekillah` / `ManteKiller` / `Manteka` / `Mantegga` / `Tequila-Man`
+- `BigTort` / `El Burbó` / `El putu Grinx` / `BL4CK4NTHR4X` / `Mantekillah` / `ManteKiller` / `Manteka` / `Mantegga` / `Tequila-Man`
 - `Cux` / `El cuchi petit` / `Le Petit Cux`
 
 I'm currently learning how to be an adult🌱 and overall a great person💗. I like to define myself as an anarcho-pacifist guy ✊🏽🕊️ from the Catalan Nation Lands (**lı★ıl**) that already knows that politicians👨‍💼 and policemen👮🏻‍♂️ are the same crap with a different smell💩💩
