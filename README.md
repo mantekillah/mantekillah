@@ -6,7 +6,7 @@ My real name is `VÍCTOR PALOMARES`. I'm also known as `BLZ`, `PALO`, `VITTORIO`
   
 I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`. **lı★ıl**
   
-<p align="center"><a href="#"><img src="https://i.postimg.cc/26PZ89wT/cat-flag.png" height="100%" width="100%" /></a></p>
+<p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
 I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
   
