@@ -14,6 +14,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
   
-</div>
+## Connect with me
 
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
