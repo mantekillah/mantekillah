@@ -16,7 +16,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 ---
 <div align="center">  
   
-![Twitter Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&logoColor=1DA1F2&style=for-the-badge)
+[![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/follow/aintyabro)
   
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
