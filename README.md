@@ -30,7 +30,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 <br />
 <br />
-<br />
 
 ---
 
