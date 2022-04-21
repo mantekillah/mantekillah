@@ -11,7 +11,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <div align="center">
   
-[![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=563d7c&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
+[![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=f1e05a&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
 
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=false&border_color=00ff00&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
 
