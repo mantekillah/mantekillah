@@ -27,7 +27,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
 
-<h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
+<h3 align="center">Stay tuned:</h3>
 
 <div align="center">
   
