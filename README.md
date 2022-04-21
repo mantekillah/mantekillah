@@ -10,9 +10,7 @@ I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
 <p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
-I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
-  
-I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things.
+I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
 
 <p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
