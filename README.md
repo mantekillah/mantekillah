@@ -27,4 +27,6 @@ HAN
 [![website](./img/instagram-dark.svg)](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/blz.reborn#gh-light-mode-only)
   
+</div>
+  
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
