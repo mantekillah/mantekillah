@@ -9,9 +9,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 <div align="center">
   
 ### :zap: My GitHub Stats
-  
-  <p></p>
-  <p></p>
+
+<br />
   
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=f1e05a&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
 
