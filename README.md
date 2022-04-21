@@ -14,16 +14,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 ## Connect with me
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mantekillah.github.io/palo#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mantekillah.github.io/palo#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/aintyabro#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/aintyabror#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/aintyabro#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/blz.reborn#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/blz.reborn#gh-dark-mode-only)
   
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
