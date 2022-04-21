@@ -6,7 +6,7 @@ I'm `Víctor Palomares` but I'm also known as `BLZ`, `Palo`, `Vittorio`, `Cux`, 
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
 
-<p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
 
@@ -26,6 +26,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
   
+<br />
 <br />
 <br />
 
