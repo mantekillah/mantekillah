@@ -39,7 +39,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [<img align="center" alt="BLZ Twitter-Follow" src="https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&style=for-the-badge" style="padding-right:10px;" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
   
-[<img align="center" alt="BLZ GitHub-Follow" src="https://img.shields.io/github/followers/mantekillah?color=782e9d&label=Segueix-me%20%E2%80%A2%20%40mantekillah&logo=Github&style=for-the-badge" style="padding-right:10px;" />](https://)
+[<img align="center" alt="BLZ GitHub-Follow" src="https://img.shields.io/github/followers/mantekillah?color=782e9d&label=Segueix-me%20%E2%80%A2%20%40mantekillah&logo=Github&style=for-the-badge" />](https://)
 
 **lı★ıl • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
