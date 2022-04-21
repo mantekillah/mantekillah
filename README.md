@@ -10,7 +10,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 [![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=boolean&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&include_all_commits=boolean&count_private=true&custom_title=GitHub+commits+by+BLZ+•+lı★ıl+•+BLZ's+GitHub+User+Rank&disable_animations=boolean)](https://github.com/mantekillah)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=00ff00&text_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
 
 </div>
 
