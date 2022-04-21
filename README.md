@@ -30,7 +30,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
-[![BLZ Instagram](https://img.shields.io/static/v1?label=%40blz.reborn&message=stalk+me&color=e4405f&logo=Instagram&style=social)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=%40blz.reborn&color=e4405f&logo=Instagram&style=social)](http://instagram.com/blz.reborn)
 
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=%40mantekiller&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
