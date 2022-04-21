@@ -18,4 +18,4 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 </div>
   
-<h2 align="center">Stay tuned: 🚧 [lı★ıl • BLZ](https://mantekillah.github.io/palo) 🚧</h2>
+<h2 align="center">Stay tuned: 🚧 <a href="https://mantekillah.github.io/palo">lı★ıl • BLZ</a> 🚧</h2>
