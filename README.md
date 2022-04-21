@@ -42,5 +42,5 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 </div>
   
-<input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow senyirauxa" aria-label="Follow senyirauxa" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:96910788,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:101211442,&quot;originating_url&quot;:&quot;https://github.com/senyirauxa&quot;}}" data-hydro-click-hmac="877a5b73d5a955f4e3ed5faa41d3797c719a3524db9c4e14a3a4195d288785bb" data-disable-with="Follow">
+<input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow senyirauxa" aria-label="Follow senyirauxa" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:96910788,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:101211442,&quot;originating_url&quot;:&quot;https://github.com/senyirauxa">
   
