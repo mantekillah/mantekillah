@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋🏼 Greetings <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
+<h1 align="center">Hi!👋🏼 Greetings <img src="./img/pikachu_wave.gif" width="30"/></h1>
 
 I'm `Víctor Palomares` but I'm also known as `Palo`, `Vittorio`, `Viti`, `Big-T`, `BiGTORT`, `Cux`, `Uktrend`, `biktwp`, `senyirauxa`, `aintyabro`, `mantekillah` or `BLZ` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
