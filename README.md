@@ -8,7 +8,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <div align="center">
   
-## :zap: My GitHub Stats
+### :zap: My GitHub Stats
   
   <p></p>
   
