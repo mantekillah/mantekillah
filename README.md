@@ -31,7 +31,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 
-[![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me!&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=%40mantekiller&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
