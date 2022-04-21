@@ -46,8 +46,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 </details>
 
-<img align="center" alt="BLZ GitHub stats" src="" />
-
 ---
 
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
