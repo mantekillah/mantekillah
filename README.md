@@ -27,13 +27,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&style=social)](http://instagram.com/blz.reborn)
-
+&nbsp;&nbsp;
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&style=social)](https://t.me/palo_senyirauxa)
-
+&nbsp;&nbsp;
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&style=social)](https://steamcommunity.com/id/mantekillah)
-
+&nbsp;&nbsp;
 [![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
-
+&nbsp;&nbsp;
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
