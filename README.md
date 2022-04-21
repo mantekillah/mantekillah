@@ -27,8 +27,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
 
-<h3 align="center">Stay tuned:</h3>
-
 <div align="center">
   
 [<img align="center" alt="BLZ website" width="30px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
