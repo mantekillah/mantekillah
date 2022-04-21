@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋🏼 Greetings <img src="./img/pikachu_wave.gif" width="30"/></h1>
+<p align="center">**Hi!👋🏼 Greetings**<img src="./img/pikachu_wave.gif" width="30"/></p>
 
 <br />
 
@@ -11,10 +11,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 ---
 
 <br />
-
 <div align="center">
   
-### GitHub Stats
+**GitHub Stats**
 
 <br />
   
