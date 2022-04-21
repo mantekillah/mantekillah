@@ -25,6 +25,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="left" alt="BLZ Telegram" width="33px" src="./img/telegram-dark.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-dark-mode-only)
 [<img align="left" alt="BLZ Telegram" width="33px" src="./img/telegram-light.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-light-mode-only)
 
+[<img align="left" alt="BLZ GitHub" width="33px" src="./img/github-dark.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-dark-mode-only)
+[<img align="left" alt="BLZ GitHub" width="33px" src="./img/github-light.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Twitter" width="33px" src="./img/twitter-dark.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-dark-mode-only)
 [<img align="left" alt="BLZ Twitter" width="33px" src="./img/twitter-light.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-light-mode-only)
 
