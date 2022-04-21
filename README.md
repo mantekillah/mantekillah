@@ -12,8 +12,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=boolean&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&include_all_commits=boolean&count_private=true&custom_title=GitHub+commits+by+BLZ+•+lı★ıl+•+BLZ's+GitHub+User+Rank&disable_animations=boolean)](https://github.com/mantekillah)
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
+  
 </div>
 
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/simpleicons.svg" />
