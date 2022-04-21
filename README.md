@@ -6,7 +6,7 @@
   
 My real name is `VÍCTOR PALOMARES`. I'm also known as `BLZ`, `PALO`, `VITTORIO`, `CUX`, `VITI`, `BiGTORT`, `BIG-T`, `BIKTWP`, `UKTREND`, `SENYIRAUXA` `AINTYABRO` or `MANTEKILLAH`.
   
-I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`. **lı★ıl**
+I define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
 <p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
