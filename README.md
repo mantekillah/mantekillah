@@ -8,6 +8,9 @@ I'm `Víctor Palomares` but I'm also known as `BLZ`, `Palo`, `Vittorio`, `Cux`, 
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 ### Most used languages
 ![BLZ's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah)
   
