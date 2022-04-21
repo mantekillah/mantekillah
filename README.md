@@ -8,8 +8,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <details>
   <summary>:zap: <b>Connect with me</b></summary>
-
-<div align="center">
   
 [<img align="left" alt="BLZ website" width="30px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="left" alt="BLZ website" width="30px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
@@ -37,12 +35,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <br />
 <br />
-
-</div>
   
 </details>
-
----
 
 <details>
   <summary>:zap: <b>My GitHub stats</b></summary>
