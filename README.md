@@ -6,7 +6,11 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `Vittorio`, `Viti`, `Big-T
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
   
