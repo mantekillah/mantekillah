@@ -39,7 +39,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <details>
   <summary>:zap: <b>My GitHub stats</b></summary>
-  <p></p>
 
 <div align="center">
   
