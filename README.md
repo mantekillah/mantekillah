@@ -19,12 +19,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 </details>
 
-<details>
-
-<summary>:zap: <b>Connect with me</b></summary>
-
-</details>
-
 ---
 
 <div align="center">
