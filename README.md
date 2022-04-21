@@ -14,17 +14,17 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ## Connect with me
   
-[<img align="center" alt="BLZ website" width="33px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
-[<img align="center" alt="BLZ website" width="33px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
+[<img align="left" alt="BLZ website" width="33px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
+[<img align="left" alt="BLZ website" width="33px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
-[<img align="center" alt="BLZ mail" width="33px" src="./img/mail-dark.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-dark-mode-only)
-[<img align="center" alt="BLZ mail" width="33px" src="./img/mail-light.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-light-mode-only)  
+[<img align="left" alt="BLZ mail" width="33px" src="./img/mail-dark.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-dark-mode-only)
+[<img align="left" alt="BLZ mail" width="33px" src="./img/mail-light.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-light-mode-only)  
 
-[<img align="center" alt="BLZ Twitter" width="33px" src="./img/twitter-dark.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-dark-mode-only)
-[<img align="center" alt="BLZ Twitter" width="33px" src="./img/twitter-light.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-light-mode-only)
+[<img align="left" alt="BLZ Twitter" width="33px" src="./img/twitter-dark.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-dark-mode-only)
+[<img align="left" alt="BLZ Twitter" width="33px" src="./img/twitter-light.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-light-mode-only)
 
-[<img align="center" alt="BLZ Instagram" width="33px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
-[<img align="center" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
+[<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
+[<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
   
 <br />
 <br />
