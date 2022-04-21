@@ -35,6 +35,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=%40mantekiller&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
-**lı★ıl • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
 </div>
