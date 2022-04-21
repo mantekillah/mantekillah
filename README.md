@@ -24,15 +24,12 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-dark.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-dark-mode-only)
 [<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-light.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-light-mode-only)
-&nbsp;&nbsp;
-[<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
-[<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&style=social)](http://instagram.com/blz.reborn)
 
-[![BLZSteam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&style=social)](https://steamcommunity.com/id/mantekillah)
+[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&style=social)](https://steamcommunity.com/id/mantekillah)
 
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&prefix=%40mantekiller+is+&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
