@@ -14,10 +14,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 ## Connect with me
 
-[![website](./img/globe.svg)](https://mantekillah.github.io/palo)
+[![website](./img/globe-dark.png)](https://mantekillah.github.io/palo#gh-dark-mode-only)
+[![website](./img/globe-light.png)](https://mantekillah.github.io/palo#gh-light-mode-only)  
 &nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/aintyabro)
+[![website](./img/twitter-dark.png)](https://twitter.com/aintyabro#gh-dark-mode-only)
+[![website](./img/twitter-light.png)](https://twitter.com/aintyabro#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://instagram.com/blz.reborn)
+[![website](./img/instagram-dark.svg)](https://instagram.com/blz.reborn#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/blz.reborn#gh-light-mode-only)
   
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
