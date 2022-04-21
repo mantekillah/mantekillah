@@ -8,7 +8,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
-[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=boolean&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&include_all_commits=boolean&count_private=true&custom_title=BLZ+•+GitHub+Stats)](https://github.com/mantekillah/github-readme-stats)
+[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=boolean&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&include_all_commits=boolean&count_private=true&custom_title=BLZ+•+GitHub+Stats)](https://github.com/mantekillah)
   
 </div>
 
