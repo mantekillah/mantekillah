@@ -39,6 +39,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <div align="center">
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 ## :zap: My GitHub Stats
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
