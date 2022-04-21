@@ -23,9 +23,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <summary>:zap: <b>Connect with me</b></summary>
 
-<div align="center">
+</details>
 
-<p></p>
+---
+
+<h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
+
+<div align="center">
   
 [<img align="center" alt="BLZ website" width="30px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="30px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
@@ -54,9 +58,3 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 <br />
 
 </div>
-
-</details>
-
----
-
-<h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
