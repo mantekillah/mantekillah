@@ -1,6 +1,4 @@
-<p align="center"><b>Hi!👋🏼 Greetings</b><img src="./img/pikachu_wave.gif" width="30"/></p>
-
-<br />
+<p align="center"><b>👋🏼 Hi! Greetings</b><img src="./img/pikachu_wave.gif" width="15"/></p>
 
 I'm `Víctor Palomares` but I'm also known as `Palo`, `Vittorio`, `Viti`, `Big-T`, `BiGTORT`, `Cux`, `Uktrend`, `biktwp`, `senyirauxa`, `aintyabro`, `mantekillah` or `BLZ` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
@@ -13,9 +11,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 <br />
 <div align="center">
   
-**GitHub Stats**
-
-<br />
+**:zap: GitHub Stats**
   
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=f1e05a&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
 
