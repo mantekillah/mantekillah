@@ -16,11 +16,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=false&border_color=00ff00&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
 
-</div>
-
-</details>
-
-<div align="center">
+<br />
   
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
