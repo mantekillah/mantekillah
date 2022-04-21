@@ -37,7 +37,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 
-[<img align="center" alt="BLZ Twitter-Follow" src="https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="padding-right:10px;" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[<img align="center" alt="BLZ Twitter-Follow" src="https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&style=for-the-badge" style="padding-right:10px;" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
 **lı★ıl • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
