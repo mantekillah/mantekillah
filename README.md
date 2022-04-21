@@ -28,5 +28,9 @@ HAN
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
   
 </div>
+<br />
+<br />
+
+---
   
 <h3 align="center">Stay tuned: <a href="https://mantekillah.github.io/palo" target="_blank">🚧 lı★ıl • BLZ 🚧</a></h3>
