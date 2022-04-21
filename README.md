@@ -15,11 +15,11 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 ## Connect with me
 
 [![website](./img/globe-dark.png)](https://mantekillah.github.io/palo#gh-dark-mode-only)
-[![website](./img/globe-light.png)](https://mantekillah.github.io/palo#gh-light-mode-only)  
-&nbsp;&nbsp;
+[![website](./img/globe-light.png)](https://mantekillah.github.io/palo#gh-light-mode-only)
+  &nbsp;&nbsp;
 [![website](./img/twitter-dark.png)](https://twitter.com/aintyabro#gh-dark-mode-only)
 [![website](./img/twitter-light.png)](https://twitter.com/aintyabro#gh-light-mode-only)
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/blz.reborn#gh-light-mode-only)
   
