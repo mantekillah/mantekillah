@@ -52,8 +52,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [<img align="center" alt="BLZ Steam" width="30px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="center" alt="BLZ Steam" width="30px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
-  
-  <p>lı★ıl • DON'T GROW UP, IT'S A TRAP!</p>
-<br />
+
+**lı★ıl • DON'T GROW UP, IT'S A TRAP!**
 
 </div>
