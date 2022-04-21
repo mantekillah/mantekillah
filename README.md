@@ -7,6 +7,18 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 ---
 
 <details>
+  <summary>:zap: <b>My GitHub stats</b></summary>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
+
+[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
+  
+</details>
+
+<details>
+
 <summary>:zap: <b>Connect with me</b></summary>
 
 [<img align="left" alt="BLZ website" width="30px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
@@ -35,20 +47,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <br />
 <br />
-  
-</details>
-
-<details>
-  <summary>:zap: <b>My GitHub stats</b></summary>
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&langs_count=10&layout=compact&title_color=ffffff&text_color=00ff00&bg_color=000000&hide_border=boolean&custom_title=BLZ+•+lı★ıl+•+Most+Used+Languages&disable_animations=boolean)](https://github.com/mantekillah)
-
-[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&bg_color=000000&text_color=ffffff&border_color=00ff00&cache_seconds=1800&custom_title=GitHub+Commits+by+BLZ▼+lı★ıl+•+BLZ's+GitHub+user+rank&disable_animations=boolean)](https://github.com/mantekillah)
 
 </div>
-  
+
 </details>
 
 ---
