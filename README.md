@@ -21,9 +21,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [<img align="center" alt="BLZ mail" width="19px" src="./img/mail-dark.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-dark-mode-only)
 [<img align="center" alt="BLZ mail" width="19px" src="./img/mail-light.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-light-mode-only)
-&nbsp;&nbsp;
-[<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-dark.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-dark-mode-only)
-[<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-light.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-light-mode-only)
 
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
