@@ -46,7 +46,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 </details>
 
-<img align="center" alt="BLZ GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mantekillah&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="center" alt="BLZ GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mantekillah&show_icons=true&hide_border=false&title_color=00ff00&icon_color=00ff00&bg_color=000000&text_color=ffffff&border_color=ffffff" />
 
 ---
 
