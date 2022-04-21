@@ -31,12 +31,12 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
 
+[<img align="left" alt="BLZ Twitch" width="33px" src="./img/twitch-dark.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-dark-mode-only)
+[<img align="left" alt="BLZ Twitch" width="33px" src="./img/twitch-light.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Steam" width="33px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="left" alt="BLZ Steam" width="33px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 
-[<img align="left" alt="BLZ Twitch" width="33px" src="./img/twitch-dark.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-dark-mode-only)
-[<img align="left" alt="BLZ Twitch" width="33px" src="./img/twitch-light.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-light-mode-only)
-  
 <br />
 
 ---
