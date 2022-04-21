@@ -1,4 +1,4 @@
-<p align="center">**Hi!👋🏼 Greetings**<img src="./img/pikachu_wave.gif" width="30"/></p>
+<p align="center"><b>Hi!👋🏼 Greetings</b><img src="./img/pikachu_wave.gif" width="30"/></p>
 
 <br />
 
