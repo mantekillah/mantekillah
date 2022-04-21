@@ -31,9 +31,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="center" alt="BLZ Steam" width="19px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 
-[![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Twitter%20%E2%80%A2%20%40aintyabro&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Twitter:%20%40aintyabro&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
-[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?color=%239146FF&label=Twitch%20:%20%40mantekiller&logo=Twitch&style=for-the-badge)](https://twitch.tv/mantekiller)
+[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?color=%239146FF&label=Twitch:%20%40mantekiller&logo=Twitch&style=for-the-badge)](https://twitch.tv/mantekiller)
 
 **lı★ıl • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
