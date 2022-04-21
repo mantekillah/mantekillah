@@ -3,8 +3,6 @@
 I'm `Víctor Palomares` but I'm also known as `BLZ`, `Palo`, `Vittorio`, `Cux`, `Viti`, `BiGTORT`, `Big-T`, `Biktwp`, `Uktrend`, `senyirauxa`, `aintyabro` or `mantekillah` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, `languages`, `One Piece`, `Pokémon`, the `Wizarding World` and `hacking`.
-  
----
 
 <details>
   <summary>:zap: <b>My GitHub stats</b></summary>
