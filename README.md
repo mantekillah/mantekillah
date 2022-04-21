@@ -10,7 +10,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ## GitHub Stats
   
-[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean)](https://github.com/mantekillah/github-readme-stats)
+[![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&locale=es&border_radius)](https://github.com/mantekillah/github-readme-stats)
   
 </div>
 
