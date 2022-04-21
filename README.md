@@ -33,6 +33,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Twitter-Follow](https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
+[![BLZ Insta](https://img.shields.io/badge/Instagram-blz.reborn-00ff00)](http://)
+
 [![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=%40mantekiller&logo=Twitch&style=social)](https://twitch.tv/mantekiller)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
