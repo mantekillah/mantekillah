@@ -16,6 +16,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <p align="center"><a href="#"><img src="https://i.postimg.cc/kMB001zz/cat-flag.png" height="100%" width="100%" /></a></p>
   
-Stay tuned: 🚧 [lı★ıl • BLZ](https://mantekillah.github.io/palo) 🚧
-
 </div>
+  
+<h2 align="center">Stay tuned: 🚧 [lı★ıl • BLZ](https://mantekillah.github.io/palo) 🚧</h2>
