@@ -15,7 +15,10 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 HAN
 ## Connect with me
 
-[![website](./img/globe-dark.png)](https://mantekillah.github.io/palo#gh-dark-mode-only)
+[<img align="left" alt="My website" width="33px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
+[<img align="left" alt="My website" width="33px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
+  
+[![website]()](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [![website](./img/globe-light.png)](https://mantekillah.github.io/palo#gh-light-mode-only)
   &nbsp;&nbsp;
 [![website](./img/twitter-dark.png)](https://twitter.com/aintyabro#gh-dark-mode-only)
