@@ -12,10 +12,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=stars,prs,issues,contribs&show_icons=boolean&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=boolean&cache_seconds=1800&include_all_commits=boolean&count_private=true&custom_title=GitHub+commits+by+BLZ+•+lı★ıl+•+BLZ's+GitHub+User+Rank&disable_animations=boolean)](https://github.com/mantekillah)
 
-HAN
 ## Connect with me
-
-<div align="center">
   
 [<img align="left" alt="BLZ website" width="33px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="left" alt="BLZ website" width="33px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
@@ -25,8 +22,6 @@ HAN
 [<img align="left" alt="BLZ Twitter" width="33px" src="./img/twitter-light.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-light-mode-only)
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [<img align="left" alt="BLZ Instagram" width="33px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
-  
-</div>
 <br />
 <br />
 
