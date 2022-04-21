@@ -22,18 +22,25 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 <summary>:zap: <b>Connect with me</b></summary>
 [<img align="left" alt="BLZ website" width="30px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="left" alt="BLZ website" width="30px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
+
 [<img align="left" alt="BLZ mail" width="30px" src="./img/mail-dark.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-dark-mode-only)
 [<img align="left" alt="BLZ mail" width="30px" src="./img/mail-light.png" style="padding-right:10px;" />](mailto://mantekillah@pm.me#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Telegram" width="30px" src="./img/telegram-dark.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-dark-mode-only)
 [<img align="left" alt="BLZ Telegram" width="30px" src="./img/telegram-light.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-light-mode-only)
+
 [<img align="left" alt="BLZ GitHub" width="30px" src="./img/github-dark.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-dark-mode-only)
 [<img align="left" alt="BLZ GitHub" width="30px" src="./img/github-light.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Twitter" width="30px" src="./img/twitter-dark.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-dark-mode-only)
 [<img align="left" alt="BLZ Twitter" width="30px" src="./img/twitter-light.png" style="padding-right:10px;" />](https://twitter.com/aintyabro#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Instagram" width="30px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [<img align="left" alt="BLZ Instagram" width="30px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Twitch" width="30px" src="./img/twitch-dark.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-dark-mode-only)
 [<img align="left" alt="BLZ Twitch" width="30px" src="./img/twitch-light.png" style="padding-right:10px;" />](https://twitch.tv/mantekiller#gh-light-mode-only)
+
 [<img align="left" alt="BLZ Steam" width="30px" src="./img/steam-dark.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-dark-mode-only)
 [<img align="left" alt="BLZ Steam" width="30px" src="./img/steam-light.png" style="padding-right:10px;" />](https://steamcommunity.com/id/mantekillah#gh-light-mode-only)
 <br />
