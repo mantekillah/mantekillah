@@ -25,9 +25,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-dark.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-dark-mode-only)
 [<img align="center" alt="BLZ Telegram" width="19px" src="./img/telegram-light.png" style="padding-right:10px;" />](https://t.me/palo_senyirauxa#gh-light-mode-only)
 &nbsp;&nbsp;
-[<img align="center" alt="BLZ GitHub" width="19px" src="./img/github-dark.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-dark-mode-only)
-[<img align="center" alt="BLZ GitHub" width="19px" src="./img/github-light.png" style="padding-right:10px;" />](https://github.com/mantekillah#gh-light-mode-only)
-&nbsp;&nbsp;
 [<img align="center" alt="BLZ Instagram" width="19px" src="./img/instagram-dark.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-dark-mode-only)
 [<img align="center" alt="BLZ Instagram" width="19px" src="./img/instagram-light.png" style="padding-right:10px;" />](https://instagram.com/blz.reborn#gh-light-mode-only)
 &nbsp;&nbsp;
@@ -39,7 +36,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [<img align="center" alt="BLZ Twitter-Follow" src="https://img.shields.io/twitter/follow/aintyabro?color=1DA1F2&label=Segueix-me%20%E2%80%A2%20%40aintyabro&logo=Twitter&style=for-the-badge" style="padding-right:10px;" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
   
-[<img align="center" alt="BLZ GitHub-Follow" src="https://img.shields.io/github/followers/mantekillah?color=782e9d&label=Segueix-me%20%E2%80%A2%20%40mantekillah&logo=Github&style=for-the-badge" />](https://github.com/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=mantekillah)
+[<img align="center" alt="BLZ GitHub-Follow" src="https://img.shields.io/github/followers/mantekillah?color=782e9d&label=Segueix-me%20%E2%80%A2%20%40mantekillah&logo=Github&style=for-the-badge" />](https://github.com/mantekillah)
 
 **lı★ıl • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
