@@ -1,4 +1,4 @@
-<h2 align="center">Hi!👋🏼 Greetings. Nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28"/></h2>
+<h1 align="center">Hi!👋🏼 Greetings. Nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/></h1>
 
 <div align="center">
   
