@@ -10,6 +10,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 **My GitHub stats**
 <p></p>
+
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&hide_border=false&langs_count=10&layout=compact&title_color=00ff00&text_color=5edf2b&bg_color=0d1117&border_color=161b22&custom_title=MOST+USED+LANGUAGES&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide_border=false&show_icons=true&icon_color=ffffff&bg_color=0d1117&text_color=5edf2b&border_color=161b22&cache_seconds=1800&title_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
@@ -18,6 +19,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 **More about me**
 <p></p>
+
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=161b22&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
 [![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square)](https://github.com/mantekillah#)
