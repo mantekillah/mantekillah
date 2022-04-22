@@ -25,10 +25,10 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 
-[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=My+Lab&labelColor=161b22&message=mantekillah.github.io/palo&logo=Jekyll&logoColor=cc0000&color=0d1117&style=for-the-badge)](https://mantekillah.github.io/palo)
+[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=My+Lab&labelColor=161b22&message=mantekillah.github.io/palo&logo=Jekyll&logoColor=cc0000&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
-[![BLZ E-Mail](https://img.shields.io/static/v1?label=Mail&labelColor=161b22&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=0d1117&style=for-the-badge)](https://github.com/mantekillah#)
+[![BLZ E-Mail](https://img.shields.io/static/v1?label=Mail&labelColor=161b22&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
 
 </div>
