@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Twitch-mantekiller" src="https://img.shields.io/static/v1?label=&message=mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge" style="padding-right:10px;" /></a><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge" style="padding-right:10px;" /></a>
+<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Twitch-mantekiller" src="https://img.shields.io/static/v1?label=&message=mantekiller&logo=Twitch&color=0d1117&logoColor=9146ff&style=for-the-badge" style="padding-right:10px;" /></a><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge" style="padding-right:10px;" /></a>
 
 </div>
 
@@ -21,19 +21,19 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
   
-[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&labelColor=2b2b2b&logo=Jekyll&logoColor=cc0000&color=0d1117&style=for-the-badge)](https://mantekillah.github.io/palo)
+[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&labelColor=2b2b2b&logo=Jekyll&logoColor=cc0000&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 &nbsp;&nbsp;
-[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=0d1117&style=for-the-badge)](mailto:mantekillah@pm.me)
+[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
 &nbsp;&nbsp;
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=ffffff&logo=Telegram&logoColor=26a5e4&color=0d1117&style=for-the-badge)](https://t.me/palo_senyirauxa)
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=ffffff&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
-[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
+[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=161b22&style=for-the-badge)](https://github.com/mantekillah)
 &nbsp;&nbsp;
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=1a8cd8&logo=Twitter&logoColor=d6d9db&color=0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=1a8cd8&logo=Twitter&logoColor=d6d9db&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=d5318c&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=d5318c&logoColor=ffffff&color=161b22&style=for-the-badge)](http://instagram.com/blz.reborn)
 &nbsp;&nbsp;
-[![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=1a2049&logo=Steam&logoColor=ffffff&color=0d1117&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
+[![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=1a2049&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
