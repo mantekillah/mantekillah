@@ -20,8 +20,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
 [![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Mail.Ru&logoColor=ffffff&color=8b89cc&style=flat-square)](mailto:mantekillah@pm.me)
-&nbsp;&nbsp;
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&style=flat-square)](https://t.me/palo_senyirauxa)
+
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&color=ffffff&style=flat-square)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
