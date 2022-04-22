@@ -19,15 +19,15 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
 [![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Protonmail&logoColor=8b89cc&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
-
+&nbsp;&nbsp;
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
-
+&nbsp;&nbsp;
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=1da1f2&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
-
+&nbsp;&nbsp;
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&logoColor=d5318c&color=161b22&style=for-the-badge)](http://instagram.com/blz.reborn)
-
+&nbsp;&nbsp;
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
-
+&nbsp;&nbsp;
 [![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge)](https://twitch.tv/mantekiller)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
