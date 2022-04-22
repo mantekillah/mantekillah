@@ -20,7 +20,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Protonmail&logoColor=ffffff&color=263163&style=flat-square)](mailto:mantekillah@pm.me)
 
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=1f211f&style=flat-square)](https://t.me/palo_senyirauxa)
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=30363d&style=flat-square)](https://t.me/palo_senyirauxa)
 
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=ffffff&color=1da1f2&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
@@ -28,7 +28,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=ffffff&color=171a21&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 
-[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=6340a5&logoColor=ffffff&style=flat-square)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=30363d&style=flat-square)](https://twitch.tv/mantekiller)
+[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=6340a5&logoColor=ffffff&style=flat-square)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&style=flat-square)](https://twitch.tv/mantekiller)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
