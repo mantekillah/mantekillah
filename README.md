@@ -18,8 +18,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 [![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&labelColor=2b2b2b&logo=Jekyll&logoColor=cc0000&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 
-[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
-
 [![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=161b22&style=for-the-badge)](https://github.com/mantekillah)
 
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=ffffff&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
@@ -29,6 +27,8 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=d5318c&logoColor=ffffff&color=161b22&style=for-the-badge)](http://instagram.com/blz.reborn)
 
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=1a2049&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
+
+[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
