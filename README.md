@@ -3,7 +3,7 @@
 
 Nice to meet you! I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ`, `senyirauxa`, `aintyabro` or `mantekillah` / `mantekiller` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
-I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), `FCBarcelona`, learning `languages`, following `One Piece` and watching things about `hacking`, `Pokémon` and the `Wizarding World`.
+I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things. I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), learning `languages`, following `One Piece` and watching `FCBarcelona` matches and things about `hacking`, `Pokémon` and the `Wizarding World`.
 
 <div align="center">
 
