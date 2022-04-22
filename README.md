@@ -33,7 +33,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=171a21&logo=Steam&logoColor=c5c3c0&color=0d1117&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
 &nbsp;&nbsp;
-[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah#9946&labelColor=171a21&logo=Discord&logoColor=c5c3c0&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
+[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=171a21&logo=Discord&logoColor=c5c3c0&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
