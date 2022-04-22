@@ -1,6 +1,4 @@
-#
-
-<p align="right"><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=0d1117&logo=Twitch&logoColor=9146ff&color=6340a5&style=flat-square" style="padding-right:10px;" /></a></p>
+<h1 align="right"><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=0d1117&logo=Twitch&logoColor=9146ff&color=6340a5&style=flat-square" style="padding-right:10px;" /></a></h1>
 <h1 align="center"><b>👋🏼 Hi! Greetings </b><img src="./img/pikachu_wave.gif" width="33"/></h1>
 
 I'm `Víctor Palomares` but I'm also known as `Palo`, `Vittorio`, `Viti`, `Big-T`, `BiGTORT`, `Cux`, `Uktrend`, `biktwp`, `senyirauxa`, `aintyabro`, `mantekillah` or `BLZ` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
