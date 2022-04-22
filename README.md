@@ -27,7 +27,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1da1f2&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=1a8cd8&logo=Twitter&logoColor=ffffff&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d5318c&color=161b22&style=for-the-badge)](http://instagram.com/blz.reborn)
 &nbsp;&nbsp;
