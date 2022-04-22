@@ -28,7 +28,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=1a2049&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
 
-![BLZ E-Mail](https://img.shields.io/static/v1?label=mantekillah%5B%40%5Dpm.me&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)
+![BLZ E-Mail](https://img.shields.io/static/v1?label=E-Mail&labelColor=263163&message=mantekillah%5B%40%5Dpm.me&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
