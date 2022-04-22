@@ -17,8 +17,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 ---
 
 [![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
-
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=1a8cd8&logo=Twitter&logoColor=d6d9db&color=0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=d5318c&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
 
@@ -26,7 +24,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=ffffff&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
 
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=161b22&logo=Twitter&logoColor=d6d9db&color=0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=161b22&logo=Twitter&logoColor=1a8cd8&color=0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
 [![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=161b22&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
 
