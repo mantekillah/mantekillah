@@ -16,7 +16,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
 
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=d5318c&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=e4405f&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
 
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=161b22&logo=Telegram&logoColor=26a5e4&color=0d1117&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
