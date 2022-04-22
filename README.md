@@ -27,7 +27,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
-[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
+[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
 &nbsp;&nbsp;
 [![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
 
