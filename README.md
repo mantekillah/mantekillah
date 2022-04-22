@@ -1,4 +1,4 @@
-[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge)](https://twitch.tv/mantekiller)
+<p align="right">[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge)](https://twitch.tv/mantekiller)</p>
 
 <p align="center"><b>👋🏼 Hi! Greetings </b><img src="./img/pikachu_wave.gif" width="20"/></p>
 
