@@ -24,17 +24,17 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
-[![BLZ Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&logo=GitHubPages&logoColor=ffffff&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
+[![BLZ Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&logo=GitHubPages&logoColor=ffffff&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 &nbsp;&nbsp;
-[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square)](mailto:mantekillah@pm.me)
+[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
 &nbsp;&nbsp;
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square)](https://t.me/palo_senyirauxa)
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=1da1f2&color=161b22&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=1da1f2&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&logoColor=d5318c&color=161b22&style=flat-square)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&logoColor=d5318c&color=161b22&style=for-the-badge)](http://instagram.com/blz.reborn)
 &nbsp;&nbsp;
-[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
+[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
