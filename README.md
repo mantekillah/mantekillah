@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center"><b>👋🏼 Hi! Greetings </b><img src="./img/pikachu_wave.gif" width="35"/></h1>
+<h1 align="center"><b>👋🏼 Hi! Greetings </b><img src="./img/pikachu_wave.gif" width="33"/></h1>
 
 I'm `Víctor Palomares` but I'm also known as `Palo`, `Vittorio`, `Viti`, `Big-T`, `BiGTORT`, `Cux`, `Uktrend`, `biktwp`, `senyirauxa`, `aintyabro`, `mantekillah` or `BLZ` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan Nation Lands`.
   
