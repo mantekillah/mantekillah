@@ -18,15 +18,15 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
-[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Protonmail&logoColor=ffffff&color=8b89cc&style=flat)](mailto:mantekillah@pm.me)
+[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Protonmail&logoColor=ffffff&color=8b89cc&style=flat-square)](mailto:mantekillah@pm.me)
 
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=ffffff&style=flat)](https://t.me/palo_senyirauxa)
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=ffffff&style=flat-square)](https://t.me/palo_senyirauxa)
 
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=ffffff&color=1da1f2&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&logoColor=ffffff&color=1da1f2&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&logoColor=ffffff&color=e4405f&style=flat)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&logoColor=ffffff&color=e4405f&style=flat-square)](http://instagram.com/blz.reborn)
 
-[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=000000&color=ffffff&style=flat)](https://steamcommunity.com/id/mantekillah)
+[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=000000&color=ffffff&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 
 [![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=9146ff&logoColor=ffffff&style=flat-square)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&style=flat-square)](https://twitch.tv/mantekiller)
 
