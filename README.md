@@ -21,13 +21,13 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Mail.Ru&logoColor=8b89cc&style=social)](mailto:mantekillah@pm.me)
 &nbsp;&nbsp;
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&style=social)](https://t.me/palo_senyirauxa)
+[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&style=flat-square)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
+[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=%40aintyabro&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&style=social)](http://instagram.com/blz.reborn)
+[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=%40blz.reborn&logo=Instagram&style=flat-square)](http://instagram.com/blz.reborn)
 &nbsp;&nbsp;
-[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&style=social)](https://steamcommunity.com/id/mantekillah)
+[![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 
 [![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=9146ff&logoColor=ffffff&style=flat-square)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&style=flat-square)](https://twitch.tv/mantekiller)
 
