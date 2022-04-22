@@ -19,7 +19,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-dark.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-dark-mode-only)
 [<img align="center" alt="BLZ website" width="19px" src="./img/globe-light.png" style="padding-right:10px;" />](https://mantekillah.github.io/palo#gh-light-mode-only)
 
-[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Mail.Ru&logoColor=8b89cc&style=social)](mailto:mantekillah@pm.me)
+[![BLZ Mail](https://img.shields.io/static/v1?label=&message=mantekillah%40pm.me&logo=Mail.Ru&logoColor=ffffff&color=8b89cc&style=flatsquare)](mailto:mantekillah@pm.me)
 &nbsp;&nbsp;
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=%40palo_senyirauxa&logo=Telegram&style=flat-square)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
