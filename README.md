@@ -32,7 +32,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=Lab&labelColor=2b2b2b&message=mantekillah.github.io/palo&logo=Jekyll&logoColor=cc0000&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 &nbsp;&nbsp;
-![BLZ E-Mail](https://img.shields.io/static/v1?label=Mail&labelColor=161b22&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=263163&color=0d1117&style=for-the-badge)
+![BLZ E-Mail](https://img.shields.io/static/v1?label=Mail&labelColor=161b22&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=0d1117&style=for-the-badge)
 
 **DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
