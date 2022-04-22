@@ -21,9 +21,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
   
-[![BLZ Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&logo=GitHubPages&logoColor=ffffff&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
+[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&logo=GitHub&logoColor=ffffff&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 &nbsp;&nbsp;
-[![BLZ Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
+[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=E-Mail&labelColor=263163&logo=ProtonMail&logoColor=ffffff&color=161b22&style=for-the-badge)](mailto:mantekillah@pm.me)
 &nbsp;&nbsp;
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
