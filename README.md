@@ -33,6 +33,6 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 &nbsp;&nbsp;
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=for-the-badge)](https://steamcommunity.com/id/mantekillah)
 
-**<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
+**DON'T GROW UP, IT'S A TRAP! • lı★ıl**
 
 </div>
