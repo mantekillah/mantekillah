@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Twitch-mantekiller" src="https://img.shields.io/static/v1?label=&message=han&logo=Twitch&color=0d1117&style=for-the-badge" style="padding-right:10px;" /></a><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&logo=Twitch&logoColor=9146ff&color=6340a5&style=for-the-badge" style="padding-right:10px;" /></a>
+color=0d1117<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=0d1117&logo=Twitch&logoColor=9146ff&color=6340a5&style=for-the-badge" style="padding-right:10px;" /></a>
 
 </div>
 
