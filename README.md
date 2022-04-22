@@ -28,7 +28,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=%40mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 
-[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=flat)](https://twitch.tv/mantekiller)
+[![BLZ Twitch](https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge)](https://twitch.tv/mantekiller)[![BLZ Twitch-Status](https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge)](https://twitch.tv/mantekiller)
 
 **<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">DON'T GROW UP, IT'S A TRAP!</a> • lı★ıl**
 
