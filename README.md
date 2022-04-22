@@ -16,11 +16,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 ---
 
-[![BLZ Instagram](https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=e4405f&logoColor=ffffff&color=0d1117&style=for-the-badge)](http://instagram.com/blz.reborn)
-
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=161b22&logo=Telegram&logoColor=26a5e4&color=0d1117&style=for-the-badge)](https://t.me/palo_senyirauxa)
 &nbsp;&nbsp;
-[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=5865f2&color=0d1117&style=for-the-badge)](https://github.com/mantekillah)
+[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=5865f2&color=0d1117&style=for-the-badge)](https://github.com/mantekillah#)
 
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=161b22&logo=Twitter&logoColor=1a8cd8&color=0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
