@@ -18,9 +18,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
   
 [![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&labelColor=2b2b2b&logo=Jekyll&logoColor=cc0000&color=161b22&style=for-the-badge)](https://mantekillah.github.io/palo)
 
-[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=161b22&style=for-the-badge)](https://github.com/mantekillah)
-
 [![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=ffffff&logo=Telegram&logoColor=26a5e4&color=161b22&style=for-the-badge)](https://t.me/palo_senyirauxa)
+
+[![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=5865f2&logo=Discord&logoColor=ffffff&color=161b22&style=for-the-badge)](https://github.com/mantekillah)
 
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=1a8cd8&logo=Twitter&logoColor=d6d9db&color=161b22&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 
