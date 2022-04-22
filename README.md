@@ -7,8 +7,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <div align="center">
 
-**My GitHub stats**
-<p></p>
+<h2>My GitHub stats</h2>
 
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&hide_border=false&langs_count=10&layout=compact&title_color=00ff00&text_color=5edf2b&bg_color=0d1117&border_color=161b22&custom_title=MOST+USED+LANGUAGES&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
