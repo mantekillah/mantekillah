@@ -9,7 +9,7 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 <h2>My GitHub stats</h2>
 
-[![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&hide_border=false&langs_count=10&layout=compact&title_color=00ff00&text_color=5edf2b&bg_color=161b22&border_color=161b22&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
+[![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&hide_border=false&langs_count=10&layout=compact&title_color=00ff00&text_color=5edf2b&bg_color=161b22&border_color=0d1117&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide_border=false&show_icons=true&icon_color=ffffff&bg_color=161b22&text_color=5edf2b&border_color=161b22&cache_seconds=1800&title_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 
