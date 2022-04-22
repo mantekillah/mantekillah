@@ -1,6 +1,6 @@
 <div align="right">
 
-[<img alt="Twitch-mantekiller" src="https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge" style="padding-right:10px;" />](https://twitch.tv/mantekiller)[<img alt="Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge" style="padding-right:10px;" />](https://twitch.tv/mantekiller)
+<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="Twitch-mantekiller" src="https://img.shields.io/static/v1?label=&message=%40mantekiller&logo=Twitch&color=161b22&logoColor=9146ff&style=for-the-badge" style="padding-right:10px;" /></a>[<img alt="Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=&color=6340a5&style=for-the-badge" style="padding-right:10px;" />](https://twitch.tv/mantekiller)
 
 </div>
 
