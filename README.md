@@ -24,7 +24,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="http://instagram.com/blz.reborn" target="_blank"><img alt="BLZ Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&labelColor=161b22&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+<a href="http://instagram.com/blz.reborn" target="_blank"><img alt="BLZ Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 [![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=161b22&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
 &nbsp;&nbsp;
