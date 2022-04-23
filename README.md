@@ -30,13 +30,11 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 
 [(https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
-
-[(https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
 
 [(https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
 
