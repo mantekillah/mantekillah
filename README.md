@@ -20,9 +20,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 <h3>More about me</h3>
 
-<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=161b22&logo=Twitch&logoColor=9146ff&color=6340a5&style=flat-square" width="120" style="padding-right:10px;"/></a>
-
-[![BLZ Telegram](https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=161b22&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square)](https://t.me/palo_senyirauxa)
+<a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="BLZ Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&labelColor=161b22&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" width="120" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 [![BLZ Discord](https://img.shields.io/static/v1?label=&message=mantekillah%239946&labelColor=161b22&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
