@@ -29,7 +29,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" height="20" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/mantekillah" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square" height="20" style="padding-right:10px;"/></a>
-&nbsp;&nbsp;
+
 <a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square" height="19" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square" height="19" style="padding-right:10px;"/></a>
