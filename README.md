@@ -32,6 +32,6 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 <a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square" height="18" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge" height="18" style="padding-right:10px;"/></a>
+<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square" height="18" style="padding-right:10px;"/></a>
 
 </div>
