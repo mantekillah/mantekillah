@@ -1,7 +1,7 @@
 <p align="right"><a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=161b22&logo=Twitch&logoColor=9146ff&color=6340a5&style=flat-square" width="120" style="padding-right:10px;"/></a></p>
 <h1 align="center"><b>👋🏼 Hi! Greetings </b><img src="./img/pikachu_wave.gif" width="33"/></h1>
 
-Nice to meet you! I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ`, `senyirauxa`, `aintyabro` or `mantekillah` / `mantekiller` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands`.
+Nice to meet you! I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ`, `senyirauxa`, `aintyabro` or `mantekillah` / `mantekiller` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands`. • **lı★ıl**
   
 I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `Arts`, `Technology`, `Privacy` and several more things.
 
@@ -28,9 +28,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 &nbsp;&nbsp;
 [![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
-
-**DON'T GROW UP, IT'S A TRAP! • lı★ıl**
-
+&nbsp;&nbsp;
 [![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
 
 </div>
