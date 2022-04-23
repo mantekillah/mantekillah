@@ -24,10 +24,16 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
-&nbsp;&nbsp;
-[![BLZ Twitter](https://img.shields.io/static/v1?label=&message=aintyabro&labelColor=161b22&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro)
-&nbsp;&nbsp;
+  
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+
 [![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
 &nbsp;&nbsp;
 [![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
