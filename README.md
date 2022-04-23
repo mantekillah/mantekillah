@@ -28,16 +28,16 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
-  
-<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
-
-<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Insta" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
-
-[![BLZ Steam](https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-[![BLZ GitHub-Pages](https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-[![BLZ E-Mail](https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
+<a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" width="125" style="padding-right:10px;"/></a>
+
+[(https://img.shields.io/static/v1?label=&message=mantekillah&labelColor=161b22&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square)](https://steamcommunity.com/id/mantekillah)
+
+[(https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square)](https://mantekillah.github.io/palo)
+
+[(https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=for-the-badge)](https://github.com/mantekillah#)
 
 </div>
