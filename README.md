@@ -16,7 +16,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=3fb950&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
-
+</div>
 ---
 
 <h3>Social links</h3>
@@ -43,7 +43,6 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 
 <a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 
-</div>
 <h3>Contact me</h3>
 
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
