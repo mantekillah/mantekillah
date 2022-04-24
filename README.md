@@ -18,7 +18,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 ---
 
 <div align="center">
-<h3>My GitHub stats</h3>
+<b>My GitHub stats</b>
 
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
