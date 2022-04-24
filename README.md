@@ -27,6 +27,8 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 
 ---
 
+<b>My links</b>
+
 <b>Social links</b>
 
 <a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="BLZ-Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
