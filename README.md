@@ -18,7 +18,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=3fb950&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 &nbsp;&nbsp;
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
-<h3>More about me</h3>
+<h3>Linktree</h3>
 
 <a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="BLZ-Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
