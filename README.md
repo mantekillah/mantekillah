@@ -23,11 +23,11 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/mantekillah)
 &nbsp;&nbsp;
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=true)](https://github.com/mantekillah)
-</div>
 
 ---
 
 <b>My links</b>
+</div>
 
 <b>Social links</b>
 
