@@ -33,9 +33,11 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+https://anar.chi.st/palo
 
 <b>Gaming links</b>
 
