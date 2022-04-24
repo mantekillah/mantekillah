@@ -26,8 +26,7 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 
 ---
 
-<details>
-  <summary><b>My links</b></summary>
+<b>My links</b>
 </div>
 <details>
   <summary><b>Social links</b></summary>
@@ -43,7 +42,6 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://anar.chi.st/palo" target="_blank"><img alt="BLZ-Pixelfed" src="https://img.shields.io/static/v1?label=&message=anar.chi%2Est%2Fpalo&logo=Instagram&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
-  </details>
   </details>
 <b>Gaming links</b>
 
