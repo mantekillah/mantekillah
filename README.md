@@ -9,10 +9,9 @@ I stand up for `Catalonia`, `Education` (in both ways, `learning`/`teaching`), `
 
 I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), learning `languages`, following `One Piece` and watching `FCBarcelona` matches and things about `hacking`, `Pokémon` and the `Wizarding World`.
 
-<div align="center">
-
 ---
 
+<div align="center">
 <h3>My GitHub stats</h3>
 
 [![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=3fb950&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
