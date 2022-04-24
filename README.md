@@ -5,7 +5,9 @@
 <p></p>
 <p align="center"><a href="https://github.com/mantekillah" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
 
-Hi! 👋🏼 Greetings. Nice to meet you! I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands`.
+<b>Hi! Greetings 👋🏼 Nice to meet you!</b>
+
+I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands`.
 
 <p align="center"><b>lı★ıl</b></p>
   
