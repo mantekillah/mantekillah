@@ -51,7 +51,7 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 
 <b>My projects</b>
 
-<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&logo=Jekyll&style=flat-square" height="25" style="padding-right:10px;"/></a>
+<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&logo=Jekyll&logoColor=cc0000&style=flat-square" height="25" style="padding-right:10px;"/></a>
 
 <b>Contact me</b>
 
