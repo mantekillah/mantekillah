@@ -17,6 +17,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 &nbsp;&nbsp;
 [![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=boolean)](https://github.com/mantekillah#)
 </div>
+
 ---
 
 <h3>Social links</h3>
