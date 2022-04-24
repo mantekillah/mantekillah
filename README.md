@@ -2,10 +2,11 @@
   <a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ Twitch-Status-mantekiller" src="https://img.shields.io/twitch/status/mantekiller?label=mantekiller&labelColor=161b22&logo=Twitch&logoColor=9146ff&color=6340a5&style=flat-square" height="20" align="right" /></a>
   <a href="https://github.com/mantekillah" target="_blank"><img width="100px" src="./img/palo.png" align="left" alt="BLZ Víctor-Palomares" /></a>
 </p>
-<p></p>
-<p align="center"><a href="https://github.com/mantekillah" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
 
-<b>Hi! Greetings 👋🏼 Nice to meet you!</b>
+<div align="center">
+<p><a href="https://github.com/mantekillah" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
+<p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
+</div>
 
 I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands`.
 
