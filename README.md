@@ -32,7 +32,7 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 
 <a href="https://steamcommunity.com/id/mantekillah" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-BattleNet" src="https://img.shields.io/static/v1?label=&message=CatalanRage%232989&logo=BattleDotCom&logoColor=148eff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-BattleNet" src="https://img.shields.io/static/v1?label=&message=CatalanRage%232989&logo=BattleDotNet&logoColor=148eff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-EpicGames" src="https://img.shields.io/static/v1?label=&message=mantekilleur&logo=EpicGames&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 
