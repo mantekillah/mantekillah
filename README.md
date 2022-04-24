@@ -29,6 +29,8 @@ I like to spend time on `gaming stuff`, `Hip Hop music` (especially `Rap`), lear
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmantekillah&screen_name=aintyabro" target="_blank"><img alt="BLZ-Twitter" src="https://img.shields.io/static/v1?label=&message=aintyabro&logo=Twitter&logoColor=1a8cd8&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+
+Battle
 &nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/mantekillah" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
