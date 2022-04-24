@@ -57,4 +57,7 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 
 <b>Contact me</b>
 
+
+<div align="center">
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+</div>
