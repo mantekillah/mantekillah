@@ -37,7 +37,7 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://instagram.com/blz.reborn" target="_blank"><img alt="BLZ-Instagram" src="https://img.shields.io/static/v1?label=&message=blz.reborn&logo=Instagram&logoColor=d90479&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://anar.chi.st/palo" target="_blank"><img alt="BLZ-Pixelfed" src="https://img.shields.io/static/v1?label=&message=palo&logo=Pixelfed&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+<a href="https://anar.chi.st/palo" target="_blank"><img alt="BLZ-Pixelfed" src="https://img.shields.io/static/v1?label=&message=anar.chi%2Est%2Fpalo&logo=Instagram&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 
 <b>Gaming links</b>
 
@@ -51,7 +51,7 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 
 <b>My projects</b>
 
-<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&logo=Jekyll&style=flat-square" height="25" style="padding-right:10px;"/></a>
 
 <b>Contact me</b>
 
