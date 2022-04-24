@@ -38,8 +38,9 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://anar.chi.st/palo" target="_blank"><img alt="BLZ-Pixelfed" src="https://img.shields.io/static/v1?label=&message=anar.chi%2Est%2Fpalo&logo=Bitcoin&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
-  </details>
-<b>Gaming links</b>
+</details>
+<details>
+  <summary><b>Gaming links</b></summary>
 
 <div align="center">
 <a href="https://steamcommunity.com/id/mantekillah" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
@@ -50,14 +51,16 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ-Twitch" src="https://img.shields.io/static/v1?label=&message=mantekiller&logo=Twitch&logoColor=9146ff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
-
-<b>My projects</b>
+</details>
+<details>
+  <summary><b>My projects</b></summary>
 
 <div align="center">
 <a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&logo=Jekyll&logoColor=cc0000&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
-
-<b>Contact me</b>
+</details>
+<details>
+  <summary><b>Contact me</b></summary>
 
 <div align="center">
 <a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="BLZ-Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
@@ -66,3 +69,4 @@ I'm `Víctor Palomares` but I'm also known as `Palo`, `BLZ` or `mantekillah` and
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-E-Mail" src="https://img.shields.io/static/v1?label=&message=victor.palomares%5B%40%5Dpm.me&logo=ProtonMail&logoColor=8b89cc&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
+</details>
